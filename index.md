@@ -2,6 +2,6 @@
 
 ## Processing Project
 
-### SpaceGame
-Final Processing project for 2021!
+### Calculator
+Final OOP project for interactive caluclator!
 
