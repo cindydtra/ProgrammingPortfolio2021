@@ -13,7 +13,7 @@ Final OOP project for screen saver! Source file [here](https://github.com/cindyd
 ![ScreenSaver](https://github.com/cindydtra/ProgrammingPortfolio2021/blob/gh-pages/Images/ScreenSaver.png?raw=true)
 
 ### EtchASketch
-Final OOP project for an interactive etch-a-sketch uisng the keyboard! Source file [here](https://github.com/cindydtra/ProgrammingPortfolio2021/tree/gh-pages/src/EtchASketch).
+Final OOP project for an interactive etch-a-sketch uisng the keyboard! Source file [here](https://github.com/cindydtra/ProgrammingPortfolio2021/tree/gh-pages/src/EtchASketch). Excecutable file for [Windoews64](https://github.com/cindydtra/ProgrammingPortfolio2021/tree/gh-pages/src/EtchASketch/application.windows64).
 
 ![EtchASketch](https://github.com/cindydtra/ProgrammingPortfolio2021/blob/gh-pages/Images/EtchASketch.png?raw=true)
 
