@@ -1,6 +1,6 @@
 # Cindy's Programming Portfolio
 
-## Processing Project
+## Processing Projects
 
 #### Calculator
 Final OOP project for interactive caluclator! Source file [here](https://github.com/cindydtra/ProgrammingPortfolio2021/tree/gh-pages/src/Calculator).
