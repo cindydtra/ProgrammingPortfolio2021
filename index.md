@@ -1,7 +1,6 @@
 # Cindy's Programming Portfolio
 
 ## Processing Projects
-## All projects coded during 2020-21 school year. [Cindy Tra](mailto:cindydtra@gmail/com)
 
 ### Calculator
 Final OOP project for interactive caluclator! Source file [here](https://github.com/cindydtra/ProgrammingPortfolio2021/tree/gh-pages/src/Calculator). Executable file for [Windows64](https://github.com/cindydtra/ProgrammingPortfolio2021/blob/gh-pages/src/Calculator/application.windows64.zip).
@@ -30,4 +29,4 @@ Final project for a user input pig Latin converter! Source file [here](https://g
 ### QuestionGenerator
 Final project for a random question generator and the user's saved answer into an output file! Source file [here](https://github.com/cindydtra/ProgrammingPortfolio2021/tree/gh-pages/src/QuestionGenerator).
 
-
+All projects coded during 2020-21 school year. [Cindy Tra](mailto:cindydtra@gmail.com)
