@@ -1,7 +1,7 @@
 # Cindy's Programming Portfolio
 
 ## Processing Projects
-All projects coded during 2020-21 school year. [Cindy Tra](mailto:cindydtra@gmail/com)
+## All projects coded during 2020-21 school year. [Cindy Tra](mailto:cindydtra@gmail/com)
 
 ### Calculator
 Final OOP project for interactive caluclator! Source file [here](https://github.com/cindydtra/ProgrammingPortfolio2021/tree/gh-pages/src/Calculator). Executable file for [Windows64](https://github.com/cindydtra/ProgrammingPortfolio2021/blob/gh-pages/src/Calculator/application.windows64.zip).
