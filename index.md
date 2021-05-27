@@ -5,9 +5,9 @@
 ### All projects coded during 2020-21 school year. [Cindy Tra](mailto:cindydtra@gmail.com)
 
 ### HangmanApp
-Final OOP project for an interactive Hangman game! Link to the repository [here](). Source file [here]().
+Final OOP project for an interactive Hangman game! Link to the repository [here](https://github.com/cindydtra/HangmanApp). Source file [here](https://github.com/cindydtra/HangmanApp/tree/main/src).
 
-![Hangman]()
+![Hangman](https://github.com/cindydtra/ProgrammingPortfolio2021/blob/gh-pages/Images/Hangman.png)
 
 ### Calculator
 Final OOP project for interactive caluclator! Source file [here](https://github.com/cindydtra/ProgrammingPortfolio2021/tree/gh-pages/src/Calculator). Executable file for [Windows64](https://github.com/cindydtra/ProgrammingPortfolio2021/blob/gh-pages/src/Calculator/application.windows64.zip).
