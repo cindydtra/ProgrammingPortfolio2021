@@ -6,7 +6,6 @@
 
 ### HangmanApp
 Final OOP project for an interactive Hangman game! Link to the repository [here](https://github.com/cindydtra/HangmanApp). Source file [here](https://github.com/cindydtra/HangmanApp/tree/main/src/HangmanApp).
-
 This project was a group project: Cindy Tra, Miles Groussman, and Elle Dykstra.
 
 ![Hangman](https://github.com/cindydtra/ProgrammingPortfolio2021/blob/gh-pages/Images/Hangman.png)
